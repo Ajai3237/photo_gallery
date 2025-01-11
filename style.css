@@ -272,12 +272,12 @@ nav .fa-solid {
     height: 100%;
     object-fit: cover;
     transition: transform 0.5s ease; 
-    border-radius: 10px;
+    border-radius: 15px;
    
 }
 
 .move-img:hover {
-   transform: scale(1.3);
+   transform: scale(1.4);
    box-shadow: 10px 6px 30px black;
 }
 .move-img:not(:hover){
